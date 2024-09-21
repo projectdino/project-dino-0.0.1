@@ -1,0 +1,2 @@
+C:\Users\3matt\OneDrive\Desktop\iis.Stupid.Menu-4.4.1\obj\Debug\netstandard2.1\iiMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3matt\OneDrive\Desktop\iis.Stupid.Menu-4.4.1\obj\Debug\netstandard2.1\iiMenu.csproj.CoreCompileInputs.cache
